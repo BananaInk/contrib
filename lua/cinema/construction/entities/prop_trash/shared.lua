@@ -61,6 +61,16 @@ PropTrashSpecialModels = table.Merge(PropTrashSpecialModels or {}, {
             func = "inverter",
             inputarea = {Vector(-22, -10, -10), Vector(-2, 10, 10)}
         }
+    },
+    ["models/roblox_assets/unknown_11245791957.mdl"] = {
+        class = "light",
+        data = {
+            untaped = false,
+            size = 300,
+            brightness = 2,
+            style = 0,
+            pos = Vector(0, 0, 0)
+        }
     }
 })
 
